@@ -1,0 +1,1 @@
+{"objName":"Stage", "children": [{"objName":"project" ,"variables":[ ] ,"customBlocks":[ ] ,"scripts":[ [ 74 , 51 , [ ["whenGreenFlag" ] , ["doForever" ,[ ["gotoSpriteOrMouse:" , "mouse-pointer" ] , ["turnLeft:" , "15" ] , ["stampCostume" ] , ["changeGraphicEffect:by:" , "color" , "25" ] ] ] ]] ] }],"info":{} }
